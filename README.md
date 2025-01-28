@@ -9,7 +9,7 @@
 
 ### 🔥 **Tech Stack**
 - 💻 **Backend:** Laravel, PHP, MySQL  
-- 🌐 **Frontend:** HTML, CSS, JavaScript, Bootstrap, Vue.js  
+- 🌐 **Frontend:** HTML, CSS, JavaScript, Bootstrap, JQuery  
 - 🛠 **Tools:** GitHub, VS Code, Postman, Composer  
 - ⚡ **Other:** API Development, Authentication, Role-Based Access,Payment Gateway  
 
