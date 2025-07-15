@@ -8,7 +8,7 @@
 ---
 
 ### 🔥 **Tech Stack**
-- 💻 **Backend:** Laravel, PHP, MySQL  
+- 💻 **Backend:** Laravel, PHP, MySQL, Node.js  
 - 🌐 **Frontend:** HTML, CSS, JavaScript, Bootstrap, JQuery  
 - 🛠 **Tools:** GitHub, VS Code, Postman, Composer  
 - ⚡ **Other:** API Development, Authentication, Role-Based Access,Payment Gateway  
@@ -31,7 +31,7 @@
 ---
 
 ### 📫 **Contact Me**
-📍 **Location:** Jaipur, Rajasthan, India  
+📍 **Location:** Sardarpura (Khalsa), Hanumangarh, Rajasthan 335524  
 📧 **Email:** [jassisuthar8555@gmail.com](mailto:jassisuthar8555@gmail.com)  
 📞 **Phone:** [+91 77348-55403](tel:+917734855403)  
 💼 **LinkedIn:** [linkedin.com/in/bhoop-singh](#)  
