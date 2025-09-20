@@ -2,7 +2,7 @@
 <h3 align="center"> Back-End Developer | Laravel | PHP | Node.js | JavaScript</h3>
 
 🌟 Passionate about **building scalable web applications** and **learning new technologies**.  
-💻 Specialized in **Laravel, PHP, MySQL,Node.js, MongoDB, JavaScript, JQuery**  
+💻 Specialized in **Laravel, PHP, MySQL, Node.js, MongoDB, JavaScript, JQuery**  
 📌 **Portfolio:** [bhoopsingh-007.github.io](https://bhoopsingh-007.github.io/)  
 
 ---
